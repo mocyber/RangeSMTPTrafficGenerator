@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/exjml2cdt4h17uke/branch/master?svg=true)](https://ci.appveyor.com/project/theturingnerd/rangesmtptrafficgenerator/branch/master)
+
+
 # SMTP Traffic Generation - Range Tool
 
 This tool will allow you to install a service which generates (somewhat) realistic email traffic for range. We use this tool to generate cover traffic and simulate email in our enclaves.
