@@ -17,4 +17,4 @@ To install:
 If you're using a compiled version, just copy the files to a directory, then execute 'SMTPTrafficGenerator install'. This installs a windows service that you can start.
 
 
-For support, create an issue.
+If you have any issues, questions, or comments feel free to contact me on twitter, or file an issue. @turingnerd.
